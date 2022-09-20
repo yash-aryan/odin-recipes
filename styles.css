@@ -1,0 +1,14 @@
+* {
+    background-color: hsl(39, 77%, 88%);
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    color: hsl(350, 83%, 30%);
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
